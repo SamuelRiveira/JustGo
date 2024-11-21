@@ -27,7 +27,7 @@ fun PerfilScreen(navController: NavController) {
         )
 
         Text(
-            text = "Juan Pérez",
+            text = "Samuel Riveira",
             style = MaterialTheme.typography.headlineMedium,
             modifier = Modifier.padding(bottom = 8.dp)
         )
